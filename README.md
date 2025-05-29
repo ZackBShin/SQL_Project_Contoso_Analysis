@@ -26,11 +26,11 @@ For my journey delving into the Contoso database, I utilized several key tools:
 - Assigned customers to High, Mid, and Low-value segments
 - Calculated key metrics: Total Revenue
 
-Query: [1_customer_segmentation.sql](Project_Contoso_Analysis\1_customer_segmentation.sql)
+Query: [1_customer_segmentation.sql](/Project_Contoso_Analysis/1_customer_segmentation.sql)
 
 **Visualization:**
 
-![Customer Segmentation](images\customer_ltv_pie_chart.png)
+![Customer Segmentation](/images/customer_ltv_pie_chart.png)
 
 **Key Findings:**
 - High-value customers (top 25%) drive 66% of the revenue ($135.4M)
@@ -49,11 +49,11 @@ Query: [1_customer_segmentation.sql](Project_Contoso_Analysis\1_customer_segment
 - Cohorts were grouped by year of first purchase
 - Analyzed customer retention at a cohort level
 
-Query: [2_cohort_analysis.sql](Project_Contoso_Analysis\2_cohort_analysis.sql)
+Query: [2_cohort_analysis.sql](/Project_Contoso_Analysis/2_cohort_analysis.sql)
 
 **Visualization:**
 
-![Cohort Analysis](images\customer_revenue.png)
+![Cohort Analysis](/images/customer_revenue.png)
 
 **Key Findings:**
 - Revenue per customer shows an alarming decreasing trend over time
@@ -72,11 +72,11 @@ Query: [2_cohort_analysis.sql](Project_Contoso_Analysis\2_cohort_analysis.sql)
 - Analyzed last purchase patterns
 - Calculated customer-specific metrics
 
-Query: [3_retention_analysis.sql](Project_Contoso_Analysis\3_retention_analysis.sql)
+Query: [3_retention_analysis.sql](/Project_Contoso_Analysis/3_retention_analysis.sql)
 
 **Visualization:**
 
-![Customer Retention](images\customer_retention.png)
+![Customer Retention](/images/customer_retention.png)
 
 **Key Findings:**
 - Cohort churn stabilizes at about 90% after 2-3 years, indicating a predictable long-term retention pattern.
