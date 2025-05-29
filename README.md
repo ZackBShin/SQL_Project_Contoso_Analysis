@@ -16,7 +16,7 @@ For my journey delving into the Contoso database, I utilized several key tools:
 - **PostgreSQL:** as the database management system for storing and managing the data.
 - **DBeaver:** as the primary code editor for writing and running scripts.
 - **Git & GitHub:** for version control and collaboration, tracking changes and managing project development.
-- **ChatGPT** for visualization. 
+- **ChatGPT:** for visualization. 
 
 
 ## Analysis Approach
