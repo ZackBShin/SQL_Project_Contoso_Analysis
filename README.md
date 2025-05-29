@@ -10,7 +10,7 @@ SQL Queries? Check them out here: [project_sql_contoso folder](Project_Contoso_A
 2. **Cohort Analysis:** How do different customer groups generate revenue?
 3. **Customer Retention Analysis:** Who hasn't purchased recently?
 
-## Tools I used
+## Tools I Used
 For my journey delving into the Contoso database, I utilized several key tools:
 - **SQL:** for querying and analyzing structured data from the dataset.
 - **PostgreSQL:** as the database management system for storing and managing the data.
@@ -45,9 +45,9 @@ Query: [1_customer_segmentation.sql](Project_Contoso_Analysis\1_customer_segment
 
 ### 2. Cohort Analysis
 
-Tracked revenue and customer count per cohort
-Cohorts were grouped by year of first purchase
-Analyszed customer retention at a cohort level
+- Tracked revenue and customer count per cohort
+- Cohorts were grouped by year of first purchase
+- Analyzed customer retention at a cohort level
 
 Query: [2_cohort_analysis.sql](Project_Contoso_Analysis\2_cohort_analysis.sql)
 
@@ -58,7 +58,7 @@ Query: [2_cohort_analysis.sql](Project_Contoso_Analysis\2_cohort_analysis.sql)
 **Key Findings:**
 - Revenue per customer shows an alarming decreasing trend over time
 - 2022-2024 cohorts are consistently performing worse than earlier cohorts
-- NOTE: ALthough net revenue is increasing, this is likely due to a larger customer base, which is not reflective of customer value
+- NOTE: Although net revenue is increasing, this is likely due to a larger customer base, which is not reflective of customer value
 
 **Business Insights:**
 - Value extracted from customers is decreasing over time and calls for further inquiry.
