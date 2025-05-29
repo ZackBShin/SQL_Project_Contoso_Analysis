@@ -26,7 +26,7 @@ For my journey delving into the Contoso database, I utilized several key tools:
 - Assigned customers to High, Mid, and Low-value segments
 - Calculated key metrics: Total Revenue
 
-Query: [1_customer_segmentation.sql](1_customer_segmentation.sql)
+Query: [1_customer_segmentation.sql](Project_Contoso_Analysis\1_customer_segmentation.sql)
 
 **Visualization:**
 
@@ -49,7 +49,7 @@ Tracked revenue and customer count per cohort
 Cohorts were grouped by year of first purchase
 Analyszed customer retention at a cohort level
 
-Query: [2_cohort_analysis.sql](/2_cohort_analysis.sql)
+Query: [2_cohort_analysis.sql](Project_Contoso_Analysis\2_cohort_analysis.sql)
 
 **Visualization:**
 
@@ -72,7 +72,7 @@ Query: [2_cohort_analysis.sql](/2_cohort_analysis.sql)
 - Analyzed last purchase patterns
 - Calculated customer-specific metrics
 
-Query: [3_retention_analysis.sql](3_retention_analysis.sql)
+Query: [3_retention_analysis.sql](Project_Contoso_Analysis\3_retention_analysis.sql)
 
 **Visualization:**
 
